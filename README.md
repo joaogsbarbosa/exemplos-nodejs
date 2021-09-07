@@ -9,3 +9,4 @@ Inspirado no curso de [Imersão em Desenvolvimento de APIs com Node.js - NodeBR]
 1. [callback.js](callback.js)
 2. [promise.js](promise.js)
 3. [async/await.js](async-await.js)
+4. [events.js](events.js)
