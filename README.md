@@ -14,3 +14,4 @@ Inspirado no curso de [Imersão em Desenvolvimento de APIs com Node.js - NodeBR]
 ## Manipulação de listas
 
 5. [for/for...in/for...of](for-in-of/index.js)
+6. [map.js](map.js)
