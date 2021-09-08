@@ -15,3 +15,4 @@ Inspirado no curso de [Imersão em Desenvolvimento de APIs com Node.js - NodeBR]
 
 5. [for/for...in/for...of](for-in-of/index.js)
 6. [map.js](map.js)
+7. [filter.js](filter.js)
