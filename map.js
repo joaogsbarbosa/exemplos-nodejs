@@ -6,7 +6,7 @@
 5 - Exibir vetor de títulos e vetor de títulos com índice
 */
 
-const service = require('./for-in-of/service');
+const service = require('./util/service');
 
 async function main() {
     try {

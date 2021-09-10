@@ -6,7 +6,7 @@
 */
 
 // usar o ./ quando for referenciar um módulo do projeto
-const service = require('./service')
+const service = require('./util/service')
 
 async function main() {
     try {

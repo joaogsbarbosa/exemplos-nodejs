@@ -10,7 +10,7 @@
 // Parecido com a cláusula WHERE do banco de dados
 
 // O uso de chaves especifica o que deve ser importado do require
-const { obterPessoas } = require('./for-in-of/service')
+const { obterPessoas } = require('./util/service')
 
 /* Atribuição via desestruturação (destructuring assignment) - Exemplo
 const item = {
