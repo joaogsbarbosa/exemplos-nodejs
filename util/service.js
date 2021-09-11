@@ -12,7 +12,18 @@ async function obterPessoas(nome) {
     return response.data
 }
 
+async function obterNomePessoas(nome) {
+    pessoas = await obterPessoas(nome);
+    nomes = pessoas.results.map( (item) => {
+        return {
+            nome: item.name,
+        }
+    })
+    return nomes;
+}
+
 module.exports = {
     obterPosts,
-    obterPessoas
+    obterPessoas,
+    obterNomePessoas
 }
