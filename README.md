@@ -25,3 +25,7 @@ $ npm install
 7. [filter.js](filter.js)
 8. [reduce.js](reduce.js)
 9. [tests.js](tests.js)
+
+## Ferramentas de linha de comando
+
+10. [CLI](./cli)
